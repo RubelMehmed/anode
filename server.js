@@ -70,6 +70,3 @@ sumEmitter.emit('event', {a:6, b:7});
 
 //------------------------>
 
-const startPeriod = new MyEmitter();
-function startPeriod()
-    console.log('Class Started');
