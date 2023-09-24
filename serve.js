@@ -29,3 +29,6 @@ server.listen(3000);
 //     git remote add origin https://github.com/RubelMehmed/anode.git
 // git branch -M main
 // git push -u origin main
+
+
+//git push --set-upstream origin server
